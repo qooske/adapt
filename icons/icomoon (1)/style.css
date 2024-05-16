@@ -1,0 +1,97 @@
+  .icon-first, .icon-second , .icon-third , .icon-fourth , .icon-fifth , .icon-sixth {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: #AFB1B8;
+  }
+  &__tel:hover &__icon-smartphone{
+    fill: #2196F3;
+  }
+  &__email:hover &__icon-envelope-hover{
+    fill: #2196F3;
+  }
+  &__client1:hover{
+    border: 1px solid #2196F3;
+  }
+  &__client1:hover &__icon-first{
+    fill: #2196F3;
+  }
+  &__client2:hover{
+    border: 1px solid #2196F3;
+  }
+  &__client2:hover &__icon-second{
+    fill: #2196F3;
+  }
+  client3:hover{
+    border: 1px solid #2196F3;
+  }
+  &__client3:hover &__icon-third{
+    fill: #2196F3;
+  }
+  &__client4:hover{
+    border: 1px solid #2196F3;
+  }
+  &__client4:hover &__icon-fourth{
+    fill: #2196F3;
+  }
+  &__client5:hover{
+    border: 1px solid #2196F3;
+  }
+  &__client5:hover &__icon-fifth{
+    fill: #2196F3;
+  }
+  &__client6:hover{
+    border: 1px solid #2196F3;
+  }
+  &__client6:hover &__icon-sixth{
+    fill: #2196F3;
+  }
+
+
+
+
+  .icon-first{
+    width: 40px;
+    height: 45px;
+  }
+  .icon-first:hover{
+    fill: #2196F3;
+  }
+  .icon-second{
+    width: 40px;
+    height: 50px;
+  }
+  .icon-second:hover{
+    fill: #2196F3;
+  }
+  .icon-third{
+    width: 45px;
+    height: 40px;
+  }
+  .icon-third:hover{
+    fill: #2196F3;
+  }
+  .icon-fourth{
+    width: 85px;
+    height: 40px;
+  }
+  .icon-fourth:hover{
+    fill: #2196F3;
+  }
+  .icon-fifth{
+    width: 60px;
+    height: 45px;
+  }
+  .icon-fifth:hover{
+    fill: #2196F3;
+  }
+  .icon-sixth{
+    width: 90px;
+    height: 45px;
+  }
+  .icon-sixth:hover{
+    fill: #2196F3;
+  }
+  
